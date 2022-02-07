@@ -1,0 +1,18 @@
+table th,td{
+    border-bottom: 2px solid white;
+    text-align: center;
+    width: 40%;
+}
+.inp1{
+    margin-left:40px;
+    margin-top:10px;
+}
+#productid{
+    margin-left:5.5%;
+}
+#productname{
+    margin-left:4%;
+}
+#productprice{
+    margin-left:4.5%;
+}
