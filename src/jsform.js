@@ -11,7 +11,7 @@ function check(weight, age, n) {
             display(dis)
         } 
         else if (age >= 5 && age <= 7) {
-            if (weight >= 15 && weight <= 20) {KG
+            if (weight >= 15 && weight <= 20) {
             }
             else if(weight < 15){
                 dis="Hello " +n+ " your weight is less than recommended value of " +weight+ " KG at an age of " +age+".";

@@ -1,24 +1,27 @@
-table th,
-td {
-  border-bottom: 2px solid white;
-  text-align: center;
-  width: 40%;
+.text{
+    margin-top:5%;
+    margin-left:5%;
 }
-.inp1 {
-  margin-left: 0px;
-  margin-top: 10px;
+#pid{
+    margin-left:6.9%;
+    size:10px;
 }
-#productid {
-  margin-left: 5.5%;
+#pname{
+    margin-left:5%;
 }
-#productname {
-  margin-left: 4%;
-}
-#productprice {
-  margin-left: 4.5%;
-}
-#output{
-  margin-top: 20px;
+#pprice{
+    margin-left:5.3%;
 }
 
+#result{
+    margin-left:5%;
+    
+}
+.btn{
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.tb{
+    margin-left:10px;
 
+}
